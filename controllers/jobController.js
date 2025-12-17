@@ -1,4 +1,4 @@
-const Job = require('../models/job');
+const Job = require('../models/Job');
 const User = require('../models/User');
 const fs = require('fs');
 const path = require('path');
